@@ -32,6 +32,10 @@ https://visualstudio.microsoft.com/downloads/
 
 https://cmake.org/download/
 
+###  MinGW-w64
+
+
+
 
 ### samples 
 
@@ -39,7 +43,9 @@ https://cmake.org/download/
 
 https://github.com/neuks/Indicator
 
+通达信 (TongDaXin) DLL 插件开发项目
 
+https://github.com/Ayebomb/tdx-dll-plugin
 
 
 
