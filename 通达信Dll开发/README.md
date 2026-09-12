@@ -37,13 +37,13 @@ https://cmake.org/download/
 
 
 
-### samples 
+## samples 
 
-通达信缠论可视化交易插件 CMake
+- 通达信缠论可视化交易插件 CMake
 
 https://github.com/neuks/Indicator
 
-通达信 (TongDaXin) DLL 插件开发项目
+- 通达信 (TongDaXin) DLL 插件开发项目 32bit
 
 https://github.com/Ayebomb/tdx-dll-plugin
 
