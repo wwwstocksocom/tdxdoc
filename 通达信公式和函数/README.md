@@ -1,7 +1,5 @@
 
-
-
-
+# 通达信公式——技术指标公式、条件选股公式、专家系统公式
 
 
 https://blog.stockso.com/blog/tdx-part4/
