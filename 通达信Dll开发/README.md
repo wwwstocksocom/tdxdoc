@@ -47,6 +47,10 @@ https://github.com/neuks/Indicator
 
 https://github.com/Ayebomb/tdx-dll-plugin
 
+- 通达信 (TongDaXin) DLL 插件开发项目 64bit  CMake
+  
+https://github.com/tconsky/ChanlunX
+
 
 
 
