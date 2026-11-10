@@ -1,9 +1,12 @@
 
 # 通达信公式——技术指标公式、条件选股公式、专家系统公式、五彩K线公式
 
+## docs
 updated:202611
 
 https://blog.stockso.com/blog/tdx-part4/
+
+https://help.tdx.com.cn/gspt/docs/markdown/tdxgs-gsxt/tdxgs-1d1knh5507fqo.html
 
 ## 技术指标公式
 ~~~
