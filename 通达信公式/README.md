@@ -6,8 +6,6 @@ updated:202611
 
 https://blog.stockso.com/blog/tdx-part4/
 
-https://help.tdx.com.cn/gspt/docs/markdown/tdxgs-gsxt/tdxgs-1d1knh5507fqo.html
-
 ## 技术指标公式
 ~~~
 0	MA	均线	1
@@ -376,4 +374,14 @@ https://help.tdx.com.cn/gspt/docs/markdown/tdxgs-gsxt/tdxgs-1d1knh5507fqo.html
 ~~~
 
 ## 五彩K线公式
+
+
+useful links
+
+
+通达信公式系统官方文档
+
+https://help.tdx.com.cn/gspt/docs/markdown/tdxgs-gsxt/tdxgs-1d1knh5507fqo.html
+
+https://help.tdx.com.cn/gspt/docs/markdown/tdxgs-1d1k7biu16p6s/tdxgs-1d1oq8nmgnm20.html
 
